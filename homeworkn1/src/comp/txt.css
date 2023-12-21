@@ -1,0 +1,31 @@
+.pako {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    margin-top: 88px;
+    width: 254px;
+    height: 56px;
+    font-family: Outfit;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: rgba(31, 49, 79, 1);
+}
+
+.lasha {
+    width: 256px;
+    height: 57px;
+    font-family: Outfit;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.1875px;
+    text-align: center;
+    color: rgba(125, 136, 158, 1);
+    position: absolute;
+    left: 48%;
+    transform: translate(-50%);
+    margin-top: 161px;
+}
